@@ -5,9 +5,7 @@
 
 ---
 
-## 📚 Lab Practicals Overview
-
-Every practical contains a dedicated `README.md` documentation file detailing the **Aim**, **Brief Theory**, **Source Code**, **Execution Output**, and **Conclusion**:
+## Practicals Overview
 
 - [**Practical 01: Multi-Format Ingestion, Binary File Processing, Regex & SQL CRUD**](./Practical%2001/README.md)
   - [Task 1: Parsing Multi-Format Files & Anomaly Detection](./Practical%2001/Task%201/README.md)
